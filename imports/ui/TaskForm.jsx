@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import { TasksCollection } from '../db/TasksCollection';
 
 export const TaskForm = ({ user }) => {
   const [text, setText] = useState('');
