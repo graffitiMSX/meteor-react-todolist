@@ -7,8 +7,7 @@ Simple To-Do List tutorial, using Meteor Js and React.
 
 ## Install [Meteor](https://www.meteor.com/install)
 
-## Restore Packages:    npm install
-
+## Restore Packages:    meteor npm install
 ## Run app:             meteor
 
 
